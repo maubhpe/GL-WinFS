@@ -1,4 +1,4 @@
-# GL-WinFS-Reporting
+# GL-WinFS
 
 PowerShell scripts that report per-user and per-Business-Unit file capacity on Windows file servers behind a DFS namespace. It reads NTFS file ownership on each server and does not query the storage platform underneath. The result is one CSV file. There is no web server, no installer and nothing to `npm install`.
 
