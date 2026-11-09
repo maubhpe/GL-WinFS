@@ -1,0 +1,12 @@
+[
+  { "Server": "FS-NAS-01", "LocalPath": "D:\\Shares\\Finance", "Role": "authoritative" },
+  { "Server": "FS-NAS-01", "LocalPath": "D:\\Shares\\Home", "Role": "authoritative" },
+  { "Server": "FS-NAS-02", "LocalPath": "D:\\Shares\\Legal", "Role": "authoritative" },
+  { "Server": "FS-NAS-03", "LocalPath": "D:\\Shares\\Engineering", "Role": "authoritative" },
+  { "Server": "FS-NAS-04", "LocalPath": "D:\\Shares\\Projects", "Role": "authoritative" },
+  { "Server": "FS-NAS-05", "LocalPath": "D:\\Shares\\Marketing", "Role": "authoritative" },
+  { "Server": "FS-NAS-06", "LocalPath": "D:\\Shares\\Home", "Role": "replica" },
+  { "Server": "FS-NAS-07", "LocalPath": "D:\\Shares\\Archive", "Role": "authoritative" },
+  { "Server": "FS-NAS-08", "LocalPath": "D:\\Shares\\Shared", "Role": "authoritative" },
+  { "Server": "NAS-SYNO-01", "LocalPath": "/volume1/CAD", "Role": "phase3-synology" }
+]
